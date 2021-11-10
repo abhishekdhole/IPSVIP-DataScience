@@ -26,7 +26,6 @@ You can learn how to distinguish fake news from a real one. You can use supervis
 
     2.Provided data.
 
-    3.Decision Tree in .png file form.
 #Links
 
     Youtube:https://bit.ly/3o3NOPK
